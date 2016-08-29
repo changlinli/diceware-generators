@@ -1,6 +1,8 @@
 Simple Diceware Password Generators
 ===================================
 
+Tools for generating [diceware passwords]("Diceware homepage" http://world.std.com/~reinhold/diceware.html).
+
 Because we don't always have dice by our side (nor do we want to roll them 30+ times).
 
 If you don't want to spend the handful of minutes coding this yourself, I've
