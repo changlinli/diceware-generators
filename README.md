@@ -29,10 +29,7 @@ What's Included
         optional arguments:
           -h, --help  show this help message and exit
 
-+ A Bash version (uses `/dev/urandom`). For compatibility reasons we don't use
-  a dictionary and instead iterate blindly through a list. This means this
-  might take about a second to run depending on how many words you want it to
-  generate.
++ A Bash version (uses `/dev/urandom`). 
 
         $ chmod u+x diceware.sh
         $ ./diceware.sh
