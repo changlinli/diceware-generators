@@ -5,11 +5,14 @@ Tools for generating [diceware passwords]("Diceware homepage" http://world.std.c
 
 Because we don't always have dice by our side (nor do we want to roll them 30+ times).
 
+Just download and execute.
+
 If you don't want to spend the handful of minutes coding this yourself, I've
 done it for you in a way that you should be able to run out of box for most
-platforms. No compiling, no exotic toolchain required. Download and execute. If
-figuring out how to run these takes longer than a couple of seconds, I've
-probably failed.
+platforms. No compiling, no exotic toolchain required. Download and run these.
+You could even just copy the source code into your own file and run. No need to
+even fire up git.  If figuring out how to run these takes longer than a couple
+of seconds, I've probably failed.
 
 What's Included
 ---------------
