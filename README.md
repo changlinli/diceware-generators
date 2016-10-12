@@ -3,7 +3,8 @@ Simple Diceware Password Generators
 
 Tools for generating [diceware passwords]("Diceware homepage" http://world.std.com/~reinhold/diceware.html).
 
-Because we don't always have dice by our side (nor do we want to roll them 30+ times).
+Because we don't always have dice by our side (nor do we want to roll them 30+
+times).
 
 Just download and execute.
 
@@ -21,6 +22,8 @@ What's Included
 
         $ python diceware.py
         slat zloty chris gripe coyote pond
+        $ python diceware.py 9
+        zig nancy beer aaa lob cope noose defy pen
         $ python diceware.py -h
         usage: diceware.py [-h] [N]
 
@@ -37,6 +40,8 @@ What's Included
         $ chmod u+x diceware.sh
         $ ./diceware.sh
         slog mammal ra den k's qb
+        $ ./diceware.sh 9
+        crank breeze tiny bu camp moron decca bulge hertz
         $ ./diceware.sh -h
         usage: diceware.sh [-h] [N]
 
